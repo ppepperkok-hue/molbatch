@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.egg-info/
+
+# Output / scratch
+out/
+*.cdx
+*.cdxml
+*.mol
+*.sdf
+*.xyz
+*.svg
+*.png
+
+# Keep sample inputs
+!examples/**/*.csv
+!examples/**/*.txt
+
+# Editors / OS
+.vscode/
+.idea/
+Thumbs.db
+desktop.ini
