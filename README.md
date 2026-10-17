@@ -1,11 +1,13 @@
+<div align="center">
+
 # molbatch
 
 <!-- moe-counter:start -->
-<p align="center">
-  <a href="https://github.com/journey-ad/Moe-Counter"><img src="https://count.getloli.com/get/@ppepperkok-hue.molbatch?theme=asoul" alt="README views" width="360" /></a>
-  <br /><sub>README views · Image requests, not unique visitors.</sub>
-</p>
+<a href="https://github.com/journey-ad/Moe-Counter"><img src="https://count.getloli.com/get/@ppepperkok-hue.molbatch?theme=asoul" alt="README views" width="360" /></a>
+<br /><sub>README views · image requests, not unique visitors</sub>
 <!-- moe-counter:end -->
+
+</div>
 
 Batch-generate 2D and 3D chemical structures from a list of compound names.
 
